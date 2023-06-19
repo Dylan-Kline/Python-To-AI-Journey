@@ -6,7 +6,7 @@ The following repo serves as a way to document my learning journey as I learn ab
 ## Overview of Learning Journey:
 
 - [x] Learning Python Basics (Functions, Variables, Databases, Data Structures, etc.)
-- [ ] End of first section project (Graphical adventure game) (60% done)
+- [ ] End of first section project (Graphical adventure game)
 - [ ] Intermediate Python, NumPy, Pandas, and Data Science Foundations
 - [ ] Data analysis and Visualization Project
 - [ ] Introduction to Machine Learning and Artificial Intelligence
